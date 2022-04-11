@@ -1,1 +1,1 @@
-First modification on GitHub repo demo for Complete Ruby on Rails Development - user: Keith Jordan
+First modification on GitHub repo demp - user: Keith Jordan
